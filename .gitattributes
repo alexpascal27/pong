@@ -47,3 +47,4 @@
 *.ushaderbytecode filter=lfs diff=lfs merge=lfs -text
 *.ubulkmanifest filter=lfs diff=lfs merge=lfs -text
 *.cs filter=lfs diff=lfs merge=lfs -text
+*.md filter=lfs diff=lfs merge=lfs -text
